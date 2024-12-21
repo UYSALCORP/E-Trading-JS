@@ -12,3 +12,4 @@ export const buttonClasses = [
   ];
 
 export const kategoriler = document.querySelector("#category")
+export const aramaKutusu = document.querySelector("#searchInput")
