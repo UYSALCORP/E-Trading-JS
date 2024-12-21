@@ -13,3 +13,8 @@ export const buttonClasses = [
 
 export const kategoriler = document.querySelector("#category")
 export const aramaKutusu = document.querySelector("#searchInput")
+export const modalBaslik = document.querySelector("#exampleModalLabel")
+export const modalBody = document.querySelector(".modal-body")
+export const sepetSayfasi = document.querySelector("#sepetBody")
+export const sepetToplam = document.querySelector("#sepetTotal")
+export const sepetteYumurta = document.querySelector("#sepet") // Sepet Simgesi
