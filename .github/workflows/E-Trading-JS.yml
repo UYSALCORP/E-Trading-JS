@@ -3,7 +3,7 @@ name: Deploy // isteğe bağlı bir isim
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
